@@ -19,7 +19,7 @@ La muestra no incluye a Sweet Tooth Truck
 git clone https://github.com/KeyCuevasMelgarejo/SWEET-TOOTH-DARK-WORLD
 # Abrir y ejecutar el archivo main.cpp
 ```
-(Opción 2) Simplemente descarga el archivo main.cpp
+(Opción 2) Simplemente descarga el archivo main.cpp , RgbImage.cpp ,RgbImage.h y la carpeta 'texturas'.
 
 **Nota: Si quieres ver la Opening Scene que le he dado al proyecto, [ingresa al video](https://youtu.be/A6JxUR6ct0I) que he subido a YOUTUBE.
 
