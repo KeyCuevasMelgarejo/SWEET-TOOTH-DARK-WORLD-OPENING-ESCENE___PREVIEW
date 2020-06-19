@@ -3,7 +3,7 @@
 # Todo el código y el repositorio original estan en privado.
 ```
 ```bash
-ATENCION! 
+ATENCIÓN! 
 La muestra no incluye a Sweet Tooth Truck
 ```
 # Sweet Tooth Dark World Opening Scene - Inicialización
