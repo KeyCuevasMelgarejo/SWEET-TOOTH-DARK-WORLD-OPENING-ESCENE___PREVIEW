@@ -2,10 +2,6 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-```bash
-ATENCIÓN! 
-La muestra no incluye a Sweet Tooth Truck
-```
 # Sweet Tooth Dark World Opening Scene - Inicialización
 
 **Clona y ejecuta el programa para ver a Sweet Tooth Dark World**
