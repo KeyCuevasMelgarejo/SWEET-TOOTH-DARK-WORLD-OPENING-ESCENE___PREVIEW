@@ -21,3 +21,7 @@ git clone https://github.com/KeyCuevasMelgarejo/SWEET-TOOTH-DARK-WORLD
 (Opción 2) Simplemente descarga el archivo main.cpp, RgbImage.cpp, RgbImage.h y la carpeta 'texturas'.
 
 **Nota: Si quieres ver la Opening Scene que le he dado al proyecto, [ingresa al video](https://youtu.be/A6JxUR6ct0I) que he subido a YOUTUBE.
+
+<p align="center"> 
+    <a href="https://youtu.be/A6JxUR6ct0I"><img src="https://img.shields.io/youtube/views/A6JxUR6ct0I?label=Reproducciones&style=social"/></a>
+</p>
