@@ -3,7 +3,7 @@
 # Todo el código y el repositorio original estan en privado.
 ```
 # Sweet Tooth Dark World Opening Scene - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSWEET-TOOTH-DARK-WORLD-OPENING-ESCENE___PREVIEW)
-Escenario y objetos 3D dibujados en full código c++. 
+Escenario y objetos 3D dibujados en full código C++. 
 
 **Nota: Si quieres ver el video edición que le he dado a este proyecto, [ingresa al video](https://youtu.be/A6JxUR6ct0I) que se ha subido a YOUTUBE.
 
